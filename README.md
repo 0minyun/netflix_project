@@ -38,7 +38,11 @@
   <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-
-
- 
   </div>
+  <br>
+  <br>
+  <br>
+  <div align=center><h1> 🧩 E.R 다이어그램</h1></div>
+  <img alt="screen shot" src="https://github.com/0minyun/netflix_project/assets/125351133/86942fdb-f4b4-44ac-9a16-1c4f2e8be841](https://github.com/0minyun/netflix_project/assets/125351133/d760601e-eb6c-4462-95bc-a79465a84cf6)https://github.com/0minyun/netflix_project/assets/125351133/d760601e-eb6c-4462-95bc-a79465a84cf6">
+  
+  
