@@ -1,5 +1,5 @@
 # netflix_project
-<img width="461" alt="screen shot" src="https://github.com/0minyun/netflix_project/assets/125351133/86942fdb-f4b4-44ac-9a16-1c4f2e8be841">
+<img alt="screen shot" src="https://github.com/0minyun/netflix_project/assets/125351133/86942fdb-f4b4-44ac-9a16-1c4f2e8be841">
 
 프로젝트 선정이유:
 넷플릭스 OTT 클론 프로젝트는 넷플릭스와 유사한 기능을 제공하는 웹 애플리케이션을 개발하는 프로젝트 입니다. 
