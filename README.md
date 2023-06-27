@@ -6,7 +6,7 @@
   <li> 🖥️ 프로젝트 소개</li>
   <li> 🛠️ 사용 기술</li>
   <li>E.R 다이어그램</li>
-  <li>핵심 기능 및 담당 기능</li>
+  <li>핵심 기능 설명</li>
   <li>리팩토링 계획</li>
 </ul>
 
@@ -43,6 +43,7 @@
   <br>
   <br>
   <div align=center><h1> 🧩 E.R 다이어그램</h1></div>
-  <img alt="screen shot" src="https://github.com/0minyun/netflix_project/assets/125351133/86942fdb-f4b4-44ac-9a16-1c4f2e8be841](https://github.com/0minyun/netflix_project/assets/125351133/d760601e-eb6c-4462-95bc-a79465a84cf6)https://github.com/0minyun/netflix_project/assets/125351133/d760601e-eb6c-4462-95bc-a79465a84cf6">
+  <img alt="screen shot" src="https://github.com/0minyun/netflix_project/assets/125351133/d760601e-eb6c-4462-95bc-a79465a84cf6">
+  
   
   
